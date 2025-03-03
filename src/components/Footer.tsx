@@ -11,10 +11,10 @@ const Footer = () => {
           <div>
             <h3 className="text-xl font-bold mb-4">John Doe</h3>
             <p className="text-slate-400 mb-4">
-              A passionate Full Stack Developer specializing in building exceptional digital experiences.
+              A passionate Ai Developer specializing in building exceptional digital experiences.
             </p>
             <p className="text-slate-400">
-              Based in San Francisco, California
+              Based in Pune, India
             </p>
           </div>
           
@@ -51,7 +51,7 @@ const Footer = () => {
         
         <div className="border-t border-slate-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-slate-400 text-sm mb-4 md:mb-0">
-            &copy; {currentYear} John Doe. All rights reserved.
+            &copy; {currentYear} Abhishek Chavan. All rights reserved.
           </p>
           <div className="flex items-center text-slate-400 text-sm">
             <span>Made with</span>

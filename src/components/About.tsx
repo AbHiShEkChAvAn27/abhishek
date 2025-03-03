@@ -14,12 +14,12 @@ const About = () => {
           <div className="order-2 lg:order-1">
             <h3 className="text-2xl font-bold mb-4">Who am I?</h3>
             <p className="text-slate-700 dark:text-slate-300 mb-6">
-              I'm a passionate Full Stack Developer with over 5 years of experience in building web applications. 
-              I specialize in JavaScript, React, Node.js, and modern web technologies.
+              I'm a passionate Ai ML Developer with over 1 years of experience in building ai applications. 
+              I specialize in Tensorflow, Pytorch, Langchain, and modern ai technologies.
             </p>
             <p className="text-slate-700 dark:text-slate-300 mb-6">
-              My journey in web development started during college, where I discovered my passion for creating 
-              interactive and user-friendly applications. Since then, I've worked with various companies and clients 
+              My journey in ai development started during college, where I discovered my passion for creating 
+              interactive and user-friendly ai applications. Since then, I've worked with various companies and clients 
               to deliver high-quality software solutions.
             </p>
             <p className="text-slate-700 dark:text-slate-300 mb-8">
@@ -49,7 +49,7 @@ const About = () => {
             <div className="relative">
               <div className="w-full h-80 md:h-96 bg-slate-200 dark:bg-slate-800 rounded-lg overflow-hidden">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" 
+                  src="images/abhi.jpg" 
                   alt="Profile" 
                   className="w-full h-full object-cover"
                 />
