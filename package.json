@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://AbHiShEkChAvAn27.github.io/abhishek",
+  "homepage": "https://AbHiShEkChAvAn27.github.io/codespaces-blank",
 
   "scripts": {
   "dev": "vite",
